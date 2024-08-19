@@ -1,4 +1,4 @@
-#1/bin/bash
+#!/bin/bash
 
 echo "please enter username:"
 
