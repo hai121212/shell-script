@@ -3,6 +3,6 @@
 echo "please enter username:"
 
 read username
-echo "please enter the password"
+echo "please enter password:"
 read password
-echo "username is:$usename,password is :$password"
+echo "username is: $usename, password is: $password"
