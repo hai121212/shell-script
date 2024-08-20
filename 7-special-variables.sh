@@ -8,4 +8,4 @@ echo "home directory:$HOME"
 echo "which user:$USER"
 echo "hostname:$HOSTNAME"
 echo "process id of the shell script:$$"
-sleep 120
+sleep 60
